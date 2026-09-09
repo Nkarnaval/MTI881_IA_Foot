@@ -1,0 +1,6 @@
+[submodule "MTI881_IA_Foot_Unity"]
+	path = MTI881_IA_Foot_Unity
+	url = https://github.com/AntoineMilochevitch/MTI881_IA_Foot_Unity.git
+[submodule "MTI881_IA_Foot_Python"]
+	path = MTI881_IA_Foot_Python
+	url = https://github.com/AntoineMilochevitch/MTI881_IA_Foot_Python.git
